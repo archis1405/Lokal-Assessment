@@ -63,7 +63,7 @@ The External SDK section explains how the app tracks user behavior and app healt
 In a real-world app, developers need to know if users are struggling to log in (e.g., if everyone is failing their OTP checks), but they must do this without compromising security.
 
 Why Use Firebase Analytics Here?
-Instead of just "hoping" the login works, these events send data to a dashboard so you can see:
+Instead of just hoping the login works, these events send data to a dashboard so you can see:
 
 How many users are actually trying to log in.
 
